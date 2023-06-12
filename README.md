@@ -1,17 +1,17 @@
 # Exp-4 Create a Web-Layout using GridBOX.
-## AIM:
-To write html & css code to create Web-Layout using GridBOX.
-## PROCEDURE:
-### STEP 1:
+## Aim:
+To write HTML & CSS code to create Web-Layout using GridBOX.
+## Algorithm:
+### Step 1:
 Create a html code for the Web-Layout.
-### STEP 2:
+### Step 2:
 Make style for the Web Layout using style tag.
-### STEP 3:
+### Step 3:
 Include Style in the html using class and id Selector.
-### STEP 4:
+### Step 4:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
-### HTML&CSS:
+## Program:
+### HTML & CSS:
 ```html
 <!DOCTYPE html>
 <html>
@@ -91,7 +91,7 @@ Verify the output by running the Web-Layout in any web browser.
 </body>
 </html>
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX04/assets/93427303/7b8ff3e2-f89d-45c4-844d-03713f0a160d)
-## RESULT:
-html & css code to create Web-Layout using GridBOX has been created and output has been verified.
+## Result:
+Thus the HTML & CSS code to create Web-Layout using GridBOX has been created and output has been verified.
